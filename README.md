@@ -1,3 +1,3 @@
 # test_repo
 
-$$\tau = \sum_{i=1}^{n} s_i$$
+$$\sum_{n=1}^{\infty}\frac{e^{i\pi}}{2^n}$$
